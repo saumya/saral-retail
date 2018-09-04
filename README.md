@@ -1,3 +1,19 @@
+# [Saral-Retail](https://saumya.github.io/saral-retail)
+
+### First demo and review notes
+
+- Add 2 more pages (Privacy, Terms & Conditions)
+- Add 2 more images in slider
+- 1 image change in slider ( Add Indian currency or person with a barcode scanner )
+- Logo addition on header
+- Image change for pricing
+- The 'Login' button should be visible on mobile web
+- Image rotaion sometimes does not work! Fix the bug.
+
+
+
+
+
 # [Start Bootstrap - Modern Business](https://startbootstrap.com/template-overviews/modern-business/)
 
 [Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
